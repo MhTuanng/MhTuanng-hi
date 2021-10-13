@@ -1,0 +1,22 @@
+{
+  "name": "nodemodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Catalizcs",
+  "license": "ISC",
+  "dependencies": {
+    "fast-speedtest-api": "^0.3.2",
+    "node-superfetch": "^0.2.3",
+    "pidusage": "^2.0.21",
+    "qrcode": "^1.4.4",
+    "sagiri": "^3.1.1",
+    "simple-youtube-api": "^5.2.1",
+    "systeminformation": "^5.7.8",
+    "wikijs": "^6.2.1",
+    "ytdl-core": "^4.9.0"
+  }
+}
